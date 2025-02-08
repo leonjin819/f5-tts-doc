@@ -2,7 +2,7 @@
 
 ## 股票 投资组合
 ### Growth 类型投资组合
-<a href="[http://example.com/](https://portfolio.moomoo.com/portfolio/2000000020081)" target="_blank">美股市场最具成长性公司组合</a>
+<a href="https://portfolio.moomoo.com/portfolio/2000000020081" target="_blank">美股市场最具成长性公司组合</a>
 ### Value 类型投资组合
 [美股市场最佳价值型公司组合](https://portfolio.moomoo.com/portfolio/2000000020082)
 ## ETF 投资组合

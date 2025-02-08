@@ -24,3 +24,6 @@
 
 ### 押注全球价值股票，适合低风险或准备退休的投资者
 <a href="https://portfolio.moomoo.com/portfolio/2000000025339" target="_blank">80% VOO + 20% VXUS 市场广度优先</a>
+
+### 新加坡高股息投资组合
+<a href="https://portfolio.moomoo.com/portfolio/2000000025520" target="_blank">新加坡高股息</a>
